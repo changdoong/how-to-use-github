@@ -33,3 +33,23 @@ git merge new-feature (new-feature 브랜치를 main에 병합)
 #### 사용법
 
 git clone https://github.com/your-username/my-repo.git
+
+# 깃허브 꾸미는 방법 (gpt 사진 대체)
+
+![image](https://github.com/user-attachments/assets/90e1d70a-d311-4e99-8582-aa6e3c0dfa9b)
+![image](https://github.com/user-attachments/assets/3cee5b29-55e6-477f-aceb-bb0c47a43a57)
+
+![image](https://github.com/user-attachments/assets/2005b006-6330-4181-a86d-a1593ccaa540)
+![image](https://github.com/user-attachments/assets/f22a7fe9-d88e-4b08-899e-46b98fd499b4)
+
+![image](https://github.com/user-attachments/assets/7d2c3778-9fbb-4182-ac45-137607b03795)
+
+![image](https://github.com/user-attachments/assets/82e4deb7-7dee-4cb7-94a1-6894fc39e108)
+
+
+
+
+
+
+
+
