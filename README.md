@@ -35,13 +35,17 @@
 - git clone https://github.com/your-username/my-repo.git
 
 ### 순서
-1. **git pull**
+
+1. **git clone** 깃허브 주소/레포지토리.git
+> github 레포지토리를 로컬로 가져옴
+
+2. **git pull**
 > 최신 변경 사항 가져오기
  
-2. **git add**,**git commit**
+3. **git add**,**git commit**
 > 새로운 파일 추가 또는 수정
 
-3. **git push**
+4. **git push**
 > Github에 업로드
 
 
