@@ -34,9 +34,9 @@
 
 - git clone https://github.com/your-username/my-repo.git
 
-### 순서
+## 순서
 
-1. **git clone** 깃허브 주소/레포지토리.git
+1. **git clone 깃허브 주소/레포지토리.git**
 > github 레포지토리를 로컬로 가져옴
 
 2. **git pull**
