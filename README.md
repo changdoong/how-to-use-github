@@ -7,32 +7,43 @@
 ### 2. Commit : 로컬에서 작업한 파일 변경사항을 github에 업로드
 
 #### 사용법 
-git push origin main
+-git push origin main
 
 ### 3. Pull : 깃허브의 최신 변경 사항을 내 로컬로 가져온다
 
 #### 사용법 
-git pull origin main
+-git pull origin main
 
 ### 4. Branch : 코드를 독립적으로 개발할 수 있도록 해준다
 
 #### 사용법 
 
-git branch new-feature
-git checkout new-feature (브랜치 이동시)
+-git branch new-feature
+-git checkout new-feature (브랜치 이동시)
 
 ### 5. Merge : 다른 브랜치에서 작업한 내용을 main 브랜치로 합친다
 
 #### 사용법 
 
-git checkout  main
-git merge new-feature (new-feature 브랜치를 main에 병합)
+-git checkout  main
+-git merge new-feature (new-feature 브랜치를 main에 병합)
 
 ### 6. Clone : 깃허브에 있는 레포지토리를 내 컴퓨터로 다운로드한다
 
 #### 사용법
 
-git clone https://github.com/your-username/my-repo.git
+-git clone https://github.com/your-username/my-repo.git
+
+### 순서
+1. **git pull**
+>> 최신 변경 사항 가져오기
+ 
+2. **git add**,**git commit**
+>> 새로운 파일 추가 또는 수정
+
+3. **git push**
+>> Github에 업로드
+
 
 # 깃허브 꾸미는 방법 (gpt 사진 대체)
 
