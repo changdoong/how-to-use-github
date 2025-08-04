@@ -49,7 +49,7 @@
 > Github에 업로드
 
 
-# 깃허브 꾸미는 방법 (gpt 사진 대체)
+# 깃허브 꾸미는 방법 (README.md 정리법)
 
 ![image](https://github.com/user-attachments/assets/90e1d70a-d311-4e99-8582-aa6e3c0dfa9b)
 ![image](https://github.com/user-attachments/assets/3cee5b29-55e6-477f-aceb-bb0c47a43a57)
